@@ -1,5 +1,6 @@
-// soswin
-//
+// This source was written by Stephen Oswin, and is placed in the
+// public domain. The author hereby disclaims copyright to this source
+// code.
 #include <cstddef>
 #include <stdint.h>
 #include <string>
